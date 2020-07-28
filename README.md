@@ -9,3 +9,5 @@ Bài 4 : [Common](https://github.com/chuong031120/CommonGesturesActivity)
 </br>
 Bài 5 : [Menu](https://github.com/chuong031120/Menu-Example)
 </br>
+Bài 6 : [Motion](https://github.com/chuong031120/Motion-Event)
+</br>
