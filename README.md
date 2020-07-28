@@ -11,3 +11,5 @@ Bài 5 : [Menu](https://github.com/chuong031120/Menu-Example)
 </br>
 Bài 6 : [Motion](https://github.com/chuong031120/Motion-Event)
 </br>
+Bài 7 : [SQLite](https://github.com/chuong031120/SQLite-Demo)
+</br>
