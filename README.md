@@ -13,3 +13,5 @@ Bài 6 : [Motion](https://github.com/chuong031120/Motion-Event)
 </br>
 Bài 7 : [SQLite](https://github.com/chuong031120/SQLite-Demo)
 </br>
+Bài 8 : [Xử lý sự kiện](https://github.com/chuong031120/BT-xulysukien)
+</br>
