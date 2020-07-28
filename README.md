@@ -15,3 +15,5 @@ Bài 7 : [SQLite](https://github.com/chuong031120/SQLite-Demo)
 </br>
 Bài 8 : [Xử lý sự kiện](https://github.com/chuong031120/BT-xulysukien)
 </br>
+Bài 9 : [Explicitlmtent](https://github.com/chuong031120/Explicitlmtent)
+</br>
