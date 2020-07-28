@@ -5,3 +5,5 @@ Bài 2 : [INFO](https://github.com/chuong031120/INFO)
 </br>
 Bài 3 : [Hello](https://github.com/chuong031120/Hello123)
 </br>
+Bài 4 : [CommonGestures](https://github.com/chuong031120/Common-GesturesActivity)
+</br>
