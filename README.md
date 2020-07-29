@@ -18,3 +18,5 @@ Bài 8 : [Xử lý sự kiện](https://github.com/chuong031120/BT-xulysukien)
 Bài 9 : [Explicitlmtent](https://github.com/chuong031120/Explicitlmtent)
 </br>
 Bài 10 : [implicitlntent](https://github.com/chuong031120/ImplicitIntent)
+</br>
+Bài 11 : [Thay đổi giao diện người dùng](https://github.com/chuong031120/ThayDoiGiaoDienNguoiDung)
